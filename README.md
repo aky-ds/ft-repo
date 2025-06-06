@@ -1,2 +1,2 @@
-# ifrah-repo
-This is Ifrah Shazadi
+# Uzair-repo
+This is Uzair Ahmed
